@@ -1,0 +1,93 @@
+programa {
+  inclua biblioteca Util --> u
+  funcao inicio() {
+    cadeia nomes[100] // a lista vai apenas até 100 convidados
+    cadeia quebraLinha // para criar a quebra de linhas
+    
+    // *************************** ERRO ***************************
+    // Utilizando o caracter ou invés da cadeia,
+    // permitiu que se a resposta iniciasse com s,
+    // independente do que mais viesse a seguir... 
+    // acabava sendo computado como valor CORRETO, VERDADEIRO...
+    caracter respi // de SIM ou NAO
+    // (para saber se continua recebendo informação pelo usuário,
+    // ou se finaliza a lista automaticamente).
+    // *************************** ERRO ***************************
+
+    // Portanto:
+    cadeia resp
+
+    cadeia nomeConvidado // recebe informaçao do nome do próximo convidado
+    inteiro x // para contar as posições dentro do vetor
+    inteiro sizeLista, contSizeLista // para calcular tamanho da lista(vetor)
+    
+    // 0. Criar quebra de linha:
+    quebraLinha = "------------------------------------------------------------------\n"
+    escreva(quebraLinha)
+
+    // 1. Tamanho da lista/vetor:
+    sizeLista = u.numero_elementos(nomes)
+    escreva("Lista para ",sizeLista," convidados.\n")
+    contSizeLista = sizeLista
+    escreva(quebraLinha)
+
+    // 2. Lista:    
+    para(x=0 ; x < contSizeLista; x++){
+      escreva("Gostaria de incluir o ",x+1,"º nome na lista? (S/N): ")
+      leia(resp)
+
+      // Condição caso SIM, queira computar mais nomes:
+      se(resp=='s' ou resp=='S'){
+        escreva("Digite o nome do ",x+1,"º convidado: ")
+        leia(nomeConvidado)
+        nomes[x] = nomeConvidado
+      }
+        
+      // Condição caso NÃO queira mais computar nomes:
+      senao se(resp=='n' ou resp=='N'){
+        escreva("\nLista finalizada e preenchida com VAZIO's.\n")
+        escreva(quebraLinha)
+        contSizeLista = x // para finalizar o programa.
+      }
+
+      // Condição caso resposta inválida de SIM ou NAO:
+      // Com RETORNO a pergunta e a sequência lógica da lista.
+      senao{
+        escreva("Resposta inválida.\n")
+        x=x-1
+      }
+    }
+
+    // Retornando o x para o valor de convidados:
+    // (ao final da condição PARA, acabasse somando +1 ao valor do "x")
+    // Portanto (correção x=x-1):
+    x=x-1
+    escreva(quebraLinha)
+
+    // 3. Contagens e verificando valores de "x" e "sizeLista":
+    escreva("--> Foram inseridos ",x," convidados.\n")
+    escreva("--> Sobraram ",sizeLista-x," lugares.\n")
+    escreva(quebraLinha)
+
+    // 4. Lista Finalizada:
+    //Condição para completar e preencher a lista com ** Vazio **:
+    para(x; x < sizeLista; x++){
+      se(x < 9){
+        nomes[x] = "\t\t** Vazio **"
+      }
+      senao{
+        nomes[x] = "\t** Vazio **"
+      }
+    }
+
+    // Título:
+    escreva("_________________________Lista Finalizada_________________________\n")
+
+    //Condição para transcrever TODA a lista:
+    para(inteiro i=0; i < sizeLista; i++){
+      escreva("\n",i+1,"º convidado(a): ",nomes[i])
+    }
+
+    escreva("\n",quebraLinha)
+  }
+}

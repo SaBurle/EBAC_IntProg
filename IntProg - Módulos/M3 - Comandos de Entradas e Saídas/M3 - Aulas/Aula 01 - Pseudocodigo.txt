@@ -1,0 +1,25 @@
+{
+BEGIN
+
+	int numeroTab, termo
+
+	numeroTab = 0
+	termo = 0
+	contador = 1
+
+	print(Hey! Vamos calcular!)
+	print(Eu sou bom em tabuadas!)
+
+	ask(Digite o número que deseja tabular:)
+	numeroTab = ask
+
+	while(contador <= 10){
+		contador = contador + 1
+		termo = termo + numeroTab
+		print(termo)
+	}
+
+	
+
+END
+}

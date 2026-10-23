@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" modified="2024-06-14T21:03:24.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sBKHHVZBXjwmIIccbYd9" version="24.5.4" type="google">
+  <diagram name="Página-1" id="I_w1ruxZLa1E494sfzJ0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JuokjN0NW_2zL61cJGV8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JuokjN0NW_2zL61cJGV8-1" target="JuokjN0NW_2zL61cJGV8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuokjN0NW_2zL61cJGV8-1" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Início&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="JuokjN0NW_2zL61cJGV8-4" target="BZFYbNmS5i0IK8CJWbP9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuokjN0NW_2zL61cJGV8-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;numeroTab = 0&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;termo = 0&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;contador = 1&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BZFYbNmS5i0IK8CJWbP9-1" target="BZFYbNmS5i0IK8CJWbP9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Hey! Vamos calcular!&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; white-space: normal;&quot;&gt;Eu sou bom em tabuadas!&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BZFYbNmS5i0IK8CJWbP9-3" target="BZFYbNmS5i0IK8CJWbP9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-3" value="Digite o número que deseja tabular:&lt;div&gt;(numeroTab)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-10" value="" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BZFYbNmS5i0IK8CJWbP9-7" target="BZFYbNmS5i0IK8CJWbP9-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="545" />
+              <mxPoint x="440" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BZFYbNmS5i0IK8CJWbP9-7" target="BZFYbNmS5i0IK8CJWbP9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-7" value="(contador &amp;lt;= 10)?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="504.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-9" value="Fim!" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-11" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Não&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="521" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BZFYbNmS5i0IK8CJWbP9-12" target="BZFYbNmS5i0IK8CJWbP9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-12" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;contador = contador + 1&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;termo = termo + numeroTab&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="BZFYbNmS5i0IK8CJWbP9-17" target="BZFYbNmS5i0IK8CJWbP9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-17" value="termo" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BZFYbNmS5i0IK8CJWbP9-20" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Sim&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

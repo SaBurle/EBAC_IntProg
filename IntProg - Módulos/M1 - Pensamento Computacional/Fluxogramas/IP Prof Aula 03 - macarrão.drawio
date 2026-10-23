@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2024-06-05T19:26:49.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0jAZSr1k50H6I8hrrxhe" version="24.4.14" type="google">
+  <diagram name="Página-1" id="woeiZIlZT2XFyVRpOOOa">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aAiywh9_aKhWElNBqIR4-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-3" target="aAiywh9_aKhWElNBqIR4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-3" value="Início" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-4" target="aAiywh9_aKhWElNBqIR4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-4" value="Pegue uma panela adequada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-15" value="" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="73" />
+              <mxPoint x="240" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-17" value="" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-8" target="aAiywh9_aKhWElNBqIR4-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="73" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-8" value="Para&amp;nbsp;&lt;div&gt;1 pessoa?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="33" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;não&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;sim&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-20" value="" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-14" target="aAiywh9_aKhWElNBqIR4-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-14" value="Pegue&amp;nbsp;&lt;div&gt;1 pacote&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-21" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-16" target="aAiywh9_aKhWElNBqIR4-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-16" value="Pegue a quantidade de pacotes igual ao número de pessoas." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-19" target="aAiywh9_aKhWElNBqIR4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-19" value="Separe a porção de água." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-22" target="aAiywh9_aKhWElNBqIR4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-22" value="Ligar o fogão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-24" target="aAiywh9_aKhWElNBqIR4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-24" value="Coloque a água na panela." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-26" target="aAiywh9_aKhWElNBqIR4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-26" value="Coloque a panela no fogão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-28" target="aAiywh9_aKhWElNBqIR4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-28" value="Coloque o macarrão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-30" target="aAiywh9_aKhWElNBqIR4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-30" value="Coloque o tempero." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-35" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-32" target="aAiywh9_aKhWElNBqIR4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-32" value="Aguarde 3 minutos após o início da água fervente." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aAiywh9_aKhWElNBqIR4-34" target="aAiywh9_aKhWElNBqIR4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-34" value="Desligue o fogão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aAiywh9_aKhWElNBqIR4-36" value="Sirva." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2024-06-04T22:25:23.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TMsHjNiy-KhD8ogM6eiN" version="24.4.13" type="google">
+  <diagram name="Página-1" id="-7KyA89Si_DWuyReunVy">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-1" target="ssAXx_SrOb_hd7Ndh4kE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-1" value="Início" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-2" target="ssAXx_SrOb_hd7Ndh4kE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-2" value="Abrir nova embalagem de macarrao instantaneo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-4" target="ssAXx_SrOb_hd7Ndh4kE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-4" target="ssAXx_SrOb_hd7Ndh4kE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-4" value="Estava estragado?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-6" target="ssAXx_SrOb_hd7Ndh4kE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-6" value="Esquentar a água até ferver" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-8" target="ssAXx_SrOb_hd7Ndh4kE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-8" value="Descartar / jogar no lixo o macarrao." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-10" target="ssAXx_SrOb_hd7Ndh4kE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="580" />
+              <mxPoint x="310" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-10" target="ssAXx_SrOb_hd7Ndh4kE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-10" value="Água Ferveu?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-14" value="não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-15" value="não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-16" value="sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-18" target="ssAXx_SrOb_hd7Ndh4kE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-18" value="Colocar o macarrao na água fervendo." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-20" value="sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-21" target="ssAXx_SrOb_hd7Ndh4kE-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="840" />
+              <mxPoint x="310" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssAXx_SrOb_hd7Ndh4kE-21" target="ssAXx_SrOb_hd7Ndh4kE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-21" value="Macarrao está cozido?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-24" value="não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-25" value="&lt;ul&gt;&lt;li&gt;Retirar o excesso de água;&lt;/li&gt;&lt;li&gt;Misturar o pó de sabor;&lt;/li&gt;&lt;li&gt;Servir no prato.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="940" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ssAXx_SrOb_hd7Ndh4kE-27" value="sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
